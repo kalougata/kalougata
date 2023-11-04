@@ -1,6 +1,5 @@
 # 💫 About Me:
-<br>🤪 A CV engineer.</br>
-<br>🎸 A Guitarist of band.</br>
+<br>🤪 A CV engineer.</br>🎸 A Guitarist of band.
 
 
 ## 🌐 Socials:
